@@ -1,0 +1,67 @@
+.contenedor_welcome {
+	position: relative;
+	width: 600px;
+	height: 200px;
+	background: #ffffff 0% 0% no-repeat padding-box;
+	box-shadow: 0px 2px 4px #00000026;
+	border-radius: 4px;
+	opacity: 1;
+	margin-top: 0px;
+	margin-bottom: 48px;
+}
+
+.account_box{
+    border-radius: 12px;
+    box-shadow: 10px -10px 0 4px #0ebdca;
+    width: 600px;
+    height: 200px;
+    position: relative;
+	background: #ffffff 0% 0% no-repeat padding-box;
+	opacity: 1;
+	margin-top: 0px;
+    margin-bottom: 48px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.account_box h5 {
+    font-size: 16px;
+    max-width: 100%;
+    line-height: 1.4;
+}
+.account_box .form-control{
+    box-shadow: none !important;
+    color: #fff;
+    height: 46px;
+    border: none;
+    border-radius: 3px;
+    font-size: 14px;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.account_box .form-control::-webkit-input-placeholder {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.account_box .form-control::-moz-placeholder {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.account_box .form-control:-ms-input-placeholder {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.account_box .form-control:-moz-placeholder {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.stl_welcome{
+    padding-top: 85px;
+}
+
+.position-logo{
+    margin-top: 70px;
+}
+.stl_info{
+    color: white;
+}
